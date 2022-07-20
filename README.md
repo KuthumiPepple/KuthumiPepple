@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuthumiPepple
 - 👀 I specialize in Go and NodeJS
 - 🌱 I’m currently working as an Outreachy intern in Apache
-- 💞️ I’m looking to collaborate on Open source projects or any interesting Go projects
+- 💞️ I’m only interested in remote work
 - 📫 Email: kuthumipepple@gmail
 
 <!---
