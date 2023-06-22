@@ -2,6 +2,7 @@
 - 👀 I specialize in Go and NodeJS
 - 🌱 I worked as an Outreachy intern at Apache
 - 💞️ I’d prefer remote work but I could consider working on-site under the right circumstances.
+- 👨🏻‍💻 Currently learning Meshery
 - 📫 Email: kuthumipepple@gmail
 
 <!---
