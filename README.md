@@ -4,7 +4,7 @@
 </div>
 
 ##
-<a href="https://www.linkedin.com/in/maria-luisa-dantas-7543381b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kuthumipepple/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <!---
 KuthumiPepple/KuthumiPepple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
